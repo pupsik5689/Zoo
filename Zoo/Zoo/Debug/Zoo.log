@@ -1,0 +1,7 @@
+﻿  Cat.cpp
+  Insect.cpp
+  Mammals.cpp
+  Source.cpp
+c:\users\mikha\source\repos\zoo\zoo\source.cpp(11): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода...
+  Zoo.vcxproj -> C:\Users\mikha\source\repos\Zoo\Debug\Zoo.exe
